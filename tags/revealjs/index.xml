@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>RevealJS on</title><link>https://meme.junyu.io/tags/revealjs/</link><description>Recent content in RevealJS on</description><generator>Hugo -- gohugo.io</generator><language>zh-Hans</language><lastBuildDate>Fri, 31 Jan 2025 20:58:03 +0800</lastBuildDate><atom:link href="https://meme.junyu.io/tags/revealjs/index.xml" rel="self" type="application/rss+xml"/><item><title/><link>https://meme.junyu.io/moments/2025-01-31-07-slide-marp-revealjs/</link><pubDate>Fri, 31 Jan 2025 20:58:03 +0800</pubDate><guid>https://meme.junyu.io/moments/2025-01-31-07-slide-marp-revealjs/</guid><description>Hugo 下的Reveal.js的效果
-Logo presentation example Custom theme example presentation Section presentation example plugin-example Template presentation Bundle example presentation Hugo highlighting example Reveal.js highlighting example Slidev:程序员友好
+Logo presentation example Custom theme example presentation Section presentation example plugin-example Template presentation Bundle example presentation Hugo highlighting example Reveal.js highlighting example slidev
+Slidev:程序员友好
 reveal-md
 webpro/reveal-md: reveal.js on steroids! Get beautiful reveal.js presentations from any Markdown file
 mkslides 刚刚起步
-MartenBE/mkslides: Use mkslides to easily turn markdown files into beautiful slides using the power of Reveal.js! martenbe.github.io/mkslides/</description></item></channel></rss>
+MartenBE/mkslides: Use mkslides to easily turn markdown files into beautiful slides using the power of Reveal.js! martenbe.github.io/mkslides/
+mkdocs 下的revealjs项目 dhondta/mkdocs-revealjs-template: Template of MkDocs + Reveal.js static documentation website</description></item></channel></rss>
